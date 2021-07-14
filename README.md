@@ -21,7 +21,10 @@ To use this plug-in, select the required region with the numbers and then type
 ```kak
 :round-numbers 4
 ```
+to have numbers rounded (or expanded) upto 4 decimal places.
+
 This is inspired mostly by [Screwtapello][3].
+
 
 [1]: https://github.com/mawww/kakoune
 [2]: https://github.com/andreyorst/plug.kak
